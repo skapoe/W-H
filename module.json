@@ -1,0 +1,16 @@
+{
+    "id": "{3E34BD85-07D4-978F-3EF9-71DB29B15A26}",
+    "name": "IPS",
+    "type": 3,
+    "vendor": "",
+    "aliases": [],
+    "parentRequirements": [
+        "{79827379-F36E-4ADA-8A95-5F8D1DC92FA9}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{018EF6B5-AB94-40C6-AA53-46943E824ACF}"
+    ],
+    "prefix": "WSB",
+    "url": "https://github.com/skapoe/ISP"
+}
